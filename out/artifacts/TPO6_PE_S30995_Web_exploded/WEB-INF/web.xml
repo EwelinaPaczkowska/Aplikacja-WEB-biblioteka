@@ -1,0 +1,10 @@
+<web-app>
+  <servlet>
+    <servlet-name>BookController</servlet-name>
+    <servlet-class>pl.utp.bookapp.controller.BookController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>BookController</servlet-name>
+    <url-pattern>/books</url-pattern>
+  </servlet-mapping>
+</web-app>
