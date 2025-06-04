@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.servlet.jsp.jstl.jar" />
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.transaction.jar" />
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.ejb.jar" />
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.resource.jar" />
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.annotation.jar" />
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.persistence.jar" />
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.servlet.jar" />
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.jms.jar" />
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/javax.servlet.jsp.jar" />
+  </library>
+  <library name="derby">
+    <archive path="C:/Users/eweli/Desktop/szkola/TPO6_PE_S30995/lib/derby.jar" />
+  </library>
+</eclipse-userlibraries>
+
