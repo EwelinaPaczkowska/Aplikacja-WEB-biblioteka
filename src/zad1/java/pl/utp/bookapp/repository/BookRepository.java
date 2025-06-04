@@ -5,14 +5,12 @@ import java.sql.*;
 import java.util.*;
 
 public class BookRepository {
-    private static final String DB_URL = "jdbc:derby:memory:bookdb;create=true";
+    private static final String DB_URL = "jdbc:derby:bookdb;create=true";
 
     static {
         try {
             Class.forName("org.apache.derby.jdbc.EmbeddedDriver");
-            System.out.println(">>> Sterownik Derby załadowany");
         } catch (ClassNotFoundException e) {
-            System.err.println(">>> Błąd ładowania sterownika Derby!");
             e.printStackTrace();
         }
     }

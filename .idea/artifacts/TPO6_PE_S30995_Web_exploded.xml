@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="TPO6_PE_S30995" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/lib/derby.jar" />
+        </element>
       </element>
       <element id="dir-copy" path="$PROJECT_DIR$/src/zad1/webapp" />
     </root>
